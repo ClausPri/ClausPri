@@ -23,4 +23,7 @@
  
  ![Snake animation](https://github.com/ClausPri/ClausPri/blob/output/github-contribution-grid-snake.svg)
  
+ ![octocat-1666197944830](https://user-images.githubusercontent.com/101745905/196753798-c2483fe1-341d-4816-8414-218a5b87ded6.png)
+
+ 
 </div>
